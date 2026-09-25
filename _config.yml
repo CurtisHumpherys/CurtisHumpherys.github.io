@@ -9,12 +9,12 @@ markdown: kramdown
 highlighter: rouge
 
 plugins:
-  -jekyll-feed
-  -jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
 
 
 exclude:
-  -Gemfile
-  -Gemfile.lock
-  -node_modules
-  -vendor
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
