@@ -1,1 +1,1 @@
-# CurtisHumpherys-github.io
+# Thanks for visiting my GitHub page! 
