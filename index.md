@@ -5,14 +5,14 @@ title: "Curtis Humpherys"
 
 <div style="padding: 2rem 0; text-align: center;">
   <h1 style="font-size: 2.8rem; margin-bottom: 0.5rem;">Curtis Humpherys</h1>
-  <p style="font-size: 1.2rem; color: #555;">CS 155 • Module 4 • GitHub Pages</p>
+  <p style="font-size: 1.2rem; color: #555;">Welcome to my GitHub page</p>
 </div>
 
 ---
 
 ## About Me
 I’m Curtis Humpherys, a first year Computer Science student at Boise State.  
-I’m exploring GitHub Pages, Jekyll, and how to publish clean, modern content on the web.
+I’m exploring GitHub, Java, and other coding studies.
 
 ---
 
