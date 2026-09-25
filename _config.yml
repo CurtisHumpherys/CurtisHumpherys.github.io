@@ -1,2 +1,20 @@
 title: Curtis Humpherys' home page!
-This was created to complete CS 155 Module 4 activity. Go Broncos!
+description: "This was created to complete CS 155 Module 4 activity. Go Broncos!"
+baseurl: "/curtishumpherys.github.io"
+url: "https://curtishumpherys.github.io"
+
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  -jekyll-feed
+  -jekyll-seo-tag
+
+
+exclude:
+  -Gemfile
+  -Gemfile.lock
+  -node_modules
+  -vendor
